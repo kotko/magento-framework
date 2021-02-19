@@ -1,0 +1,10 @@
+{
+    "name": "kotko/composer-package",
+    "authors": [
+        {
+            "name": "Kotko Vladyslav",
+            "email": "m@kotko.me"
+        }
+    ],
+    "require": {}
+}
