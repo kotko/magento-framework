@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'kotko/composer-package',
+    'reference' => 'adbb2f507ef73c6c85efb868ec3b574f091e0ba6',
+    'name' => 'magento/framework',
   ),
   'versions' => 
   array (
-    'kotko/composer-package' => 
+    'magento/framework' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'adbb2f507ef73c6c85efb868ec3b574f091e0ba6',
     ),
   ),
 );
